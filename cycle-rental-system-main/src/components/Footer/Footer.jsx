@@ -73,9 +73,9 @@ const Footer = () => {
             <div className="mb-4">
               <h5 className="footer__link-title mb-4">Head Office</h5>
               <p className="office__info">NIT SILCHAR, Silchar Cachar Assam, India</p>
-              <p className="office__info">Phone: +91 7488285891</p>
+              <p className="office__info">Phone: +91 7498285891</p>
 
-              <p className="office__info">Email: yashra4j@gmail.com</p>
+              <p className="office__info">Email: lavanya1@gmail.com</p>
 
               <p className="office__info">Office Time: 10am - 7pm</p>
             </div>
